@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <alerts>
+        <fullName>Workflowalert</fullName>
+        <description>Workflowalert</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>kiransetty@dev1.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/MarketingProductInquiryResponse</template>
+    </alerts>
     <fieldUpdates>
         <fullName>ChangePriorityToHigh</fullName>
         <field>Priority</field>
@@ -22,6 +33,10 @@
     </fieldUpdates>
     <rules>
         <fullName>Typeoncase</fullName>
+        <actions>
+            <name>Workflowalert</name>
+            <type>Alert</type>
+        </actions>
         <actions>
             <name>Priorityislow</name>
             <type>FieldUpdate</type>
