@@ -5,8 +5,7 @@
         <description>Workflowalert</description>
         <protected>false</protected>
         <recipients>
-            <recipient>kiransetty@dev1.com</recipient>
-            <type>user</type>
+            <type>owner</type>
         </recipients>
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/MarketingProductInquiryResponse</template>
