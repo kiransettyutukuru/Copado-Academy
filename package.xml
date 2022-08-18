@@ -4,13 +4,5 @@
         <members>Case.Workflowalert</members>
         <name>WorkflowAlert</name>
     </types>
-    <types>
-        <members>Case.Priorityislow</members>
-        <name>WorkflowFieldUpdate</name>
-    </types>
-    <types>
-        <members>Case.Typeoncase</members>
-        <name>WorkflowRule</name>
-    </types>
     <version>55.0</version>
 </Package>
