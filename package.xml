@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>unfiled$public/TestRequestTemplate_1669844554329</members>
-        <name>EmailTemplate</name>
+        <members>Testlabel1</members>
+        <name>CustomLabel</name>
     </types>
     <types>
-        <members>Lead.Emailalert1</members>
-        <name>WorkflowAlert</name>
+        <members>de</members>
+        <members>es</members>
+        <members>nl_NL</members>
+        <members>ru</members>
+        <name>Translations</name>
     </types>
     <version>56.0</version>
 </Package>
