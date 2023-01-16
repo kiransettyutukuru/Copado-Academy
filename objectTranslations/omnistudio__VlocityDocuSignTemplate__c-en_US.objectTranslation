@@ -1,27 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <fields>
-        <label><!-- Description --></label>
+        <label></label>
         <name>omnistudio__Description__c</name>
     </fields>
     <fields>
-        <label><!-- DocuSign Account Id --></label>
+        <label></label>
         <name>omnistudio__DocuSignAccountId__c</name>
     </fields>
     <fields>
-        <label><!-- Role Tabs --></label>
+        <label></label>
         <name>omnistudio__RoleTabs__c</name>
     </fields>
     <fields>
-        <label><!-- Roles --></label>
+        <label></label>
         <name>omnistudio__RolesData__c</name>
     </fields>
     <fields>
-        <label><!-- Tabs --></label>
+        <label></label>
         <name>omnistudio__TabsData__c</name>
     </fields>
     <fields>
-        <label><!-- Template Id --></label>
+        <label></label>
         <name>omnistudio__TemplateIdentifier__c</name>
     </fields>
+    <layouts>
+        <layout>Docusign(Test)</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>
