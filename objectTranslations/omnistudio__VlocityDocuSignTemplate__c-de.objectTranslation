@@ -3,44 +3,50 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value><!-- Vlocity DocuSign Template --></value>
+        <value></value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value><!-- Vlocity DocuSign Template --></value>
+        <value></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value><!-- Vlocity DocuSign Template --></value>
+        <value></value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value><!-- Vlocity DocuSign Template --></value>
+        <value></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value><!-- Vlocity DocuSign Template --></value>
+        <value></value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value><!-- Vlocity DocuSign Template --></value>
+        <value></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value><!-- Vlocity DocuSign Template --></value>
+        <value></value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value><!-- Vlocity DocuSign Template --></value>
+        <value></value>
     </caseValues>
-    
+    <layouts>
+        <layout>Docusign</layout>
+        <sections>
+            <label>New record</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <layouts>
         <layout>Docusign(Test)</layout>
         <sections>
@@ -48,5 +54,5 @@
             <section>Custom Links</section>
         </sections>
     </layouts>
-    <nameFieldLabel><!-- Vlocity Docusign Template Name --></nameFieldLabel>
+    <nameFieldLabel></nameFieldLabel>
 </CustomObjectTranslation>

@@ -25,6 +25,13 @@
         <name>omnistudio__TemplateIdentifier__c</name>
     </fields>
     <layouts>
+        <layout>Docusign</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
         <layout>Docusign(Test)</layout>
         <sections>
             <label></label>
