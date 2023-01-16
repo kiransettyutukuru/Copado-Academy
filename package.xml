@@ -6,7 +6,7 @@
         <name>CustomObjectTranslation</name>
     </types>
     <types>
-        <members>omnistudio__VlocityDocuSignTemplate__c-Docusign%28Test%29</members>
+        <members>omnistudio__VlocityDocuSignTemplate__c-Docusign</members>
         <name>Layout</name>
     </types>
     <version>56.0</version>
