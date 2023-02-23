@@ -6871,7 +6871,7 @@
         <name>CreateLtngTempInPub</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <name>CreatePackaging</name>
     </userPermissions>
     <userPermissions>
