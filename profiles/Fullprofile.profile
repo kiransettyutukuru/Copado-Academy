@@ -6616,6 +6616,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
+        <name>CreatePackaging</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>false</enabled>
         <name>AIViewInsightObjects</name>
     </userPermissions>
     <userPermissions>
