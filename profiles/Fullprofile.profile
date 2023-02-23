@@ -6616,10 +6616,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>CreatePackaging</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>AIViewInsightObjects</name>
     </userPermissions>
     <userPermissions>
@@ -6873,6 +6869,10 @@
     <userPermissions>
         <enabled>false</enabled>
         <name>CreateLtngTempInPub</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>false</enabled>
+        <name>CreatePackaging</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
