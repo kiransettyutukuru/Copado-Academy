@@ -419,6 +419,16 @@
                     <default>false</default>
                     <label>GC1020</label>
                 </value>
+                <value>
+                    <fullName>.NET IDX SDK</fullName>
+                    <default>false</default>
+                    <label>.NET IDX SDK</label>
+                </value>
+                <value>
+                    <fullName>.NET</fullName>
+                    <default>false</default>
+                    <label>.NET</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
