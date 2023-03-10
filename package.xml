@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Case.Workflowalert</members>
-        <name>WorkflowAlert</name>
+        <members>Case.Record type1</members>
+        <members>Case.Record type2</members>
+        <name>BusinessProcess</name>
     </types>
     <types>
-        <members>Case.Priorityislow</members>
-        <name>WorkflowFieldUpdate</name>
+        <members>Case.Parent_of_product__c</members>
+        <members>Case.Product__c</members>
+        <name>CustomField</name>
     </types>
     <types>
-        <members>Case.Typeoncase</members>
-        <name>WorkflowRule</name>
+        <members>Case.Record_type1</members>
+        <members>Case.record_Type2</members>
+        <name>RecordType</name>
     </types>
-    <version>55.0</version>
+    <version>57.0</version>
 </Package>
