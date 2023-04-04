@@ -385,6 +385,7 @@
                 <value>
                     <fullName>three</fullName>
                     <default>false</default>
+                    <isActive>false</isActive>
                     <label>three</label>
                 </value>
             </valueSetDefinition>
@@ -654,10 +655,6 @@
                 <default>false</default>
             </values>
             <values>
-                <fullName>three</fullName>
-                <default>false</default>
-            </values>
-            <values>
                 <fullName>two</fullName>
                 <default>false</default>
             </values>
@@ -719,10 +716,6 @@
             <picklist>Parent_of_product__c</picklist>
             <values>
                 <fullName>One</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>three</fullName>
                 <default>false</default>
             </values>
             <values>
