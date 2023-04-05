@@ -4,9 +4,5 @@
         <members>Activity</members>
         <name>CustomObject</name>
     </types>
-    <types>
-        <members>ko</members>
-        <name>Translations</name>
-    </types>
     <version>57.0</version>
 </Package>
