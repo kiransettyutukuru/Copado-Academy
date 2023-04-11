@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <fields>
-        <label><!-- Active --></label>
+        <label></label>
         <name>Active__c</name>
         <picklistValues>
             <masterLabel>No</masterLabel>
@@ -9,7 +9,7 @@
         </picklistValues>
         <picklistValues>
             <masterLabel>Yes</masterLabel>
-            <translation>Second</translation>
+            <translation></translation>
         </picklistValues>
     </fields>
 </CustomObjectTranslation>
