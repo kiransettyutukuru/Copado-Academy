@@ -140,6 +140,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ManageSolutions</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>MassInlineEdit</name>
     </userPermissions>
     <userPermissions>
@@ -164,7 +168,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>SubmitMacrosAllowed</name>
+        <name>SolutionImport</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
