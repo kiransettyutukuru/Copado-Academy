@@ -5,33 +5,8 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Product2-Product Layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>Admin</members>
-        <members>Analytics Cloud Integration User</members>
-        <members>Analytics Cloud Security User</members>
-        <members>Attachmentonideas</members>
-        <members>ContractManager</members>
-        <members>Cross Org Data Proxy User</members>
-        <members>Custom%3A Marketing Profile</members>
-        <members>Custom%3A Sales Profile</members>
-        <members>Custom%3A Support Profile</members>
-        <members>Developer support%26*%28%26%40</members>
-        <members>Force%2Ecom - App Subscription User</members>
-        <members>Force%2Ecom - Free User</members>
-        <members>Fullprofile</members>
-        <members>Identity User</members>
-        <members>MarketingProfile</members>
-        <members>Minimum Access - Salesforce</members>
-        <members>Partner App Subscription User</members>
-        <members>Salesforce API Only System Integrations</members>
-        <members>Standard</members>
-        <members>StandardAul</members>
-        <members>Test%24%25%28profile%40%25</members>
-        <members>TestprofilewithoutspecialcharADD</members>
-        <members>Work%2Ecom Only User</members>
+        <members>Read Only</members>
+        <members>SolutionManager</members>
         <name>Profile</name>
     </types>
     <version>57.0</version>
