@@ -4,5 +4,18 @@
         <members>Lead.GenderIdentity</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>LeadSource</members>
+        <members>LeadSource</members>
+        <members>LeadSource</members>
+        <members>LeadSource</members>
+        <members>LeadSource</members>
+        <members>LeadStatus</members>
+        <name>StandardValueSet</name>
+    </types>
     <version>57.0</version>
 </Package>
