@@ -450,6 +450,35 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Test__c</fullName>
+        <externalId>false</externalId>
+        <label>Test</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Apple</fullName>
+                    <default>false</default>
+                    <label>Apple</label>
+                </value>
+                <value>
+                    <fullName>Copado</fullName>
+                    <default>false</default>
+                    <label>Copado</label>
+                </value>
+                <value>
+                    <fullName>Microsoft</fullName>
+                    <default>false</default>
+                    <label>Microsoft</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>Title</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
