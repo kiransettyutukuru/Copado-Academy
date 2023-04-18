@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Lead.GenderIdentity</members>
+        <members>Lead.Test__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>Admin</members>
+        <members>Analytics Cloud Integration User</members>
+        <members>Analytics Cloud Security User</members>
+        <members>ContractManager</members>
+        <members>Custom%3A Marketing Profile</members>
+        <members>Custom%3A Sales Profile</members>
+        <members>Custom%3A Support Profile</members>
+        <members>Fullprofile</members>
+        <members>MarketingProfile</members>
+        <members>Minimum Access - Salesforce</members>
+        <members>Read Only</members>
         <name>Profile</name>
-    </types>
-    <types>
-        <members>LeadSource</members>
-        <members>LeadSource</members>
-        <members>LeadSource</members>
-        <members>LeadSource</members>
-        <members>LeadSource</members>
-        <members>LeadStatus</members>
-        <name>StandardValueSet</name>
     </types>
     <version>57.0</version>
 </Package>
