@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Case.Workflowalert</members>
-        <name>WorkflowAlert</name>
+        <members>Activity.Test3__c</members>
+        <members>Event.Test3__c</members>
+        <members>Task.Test3__c</members>
+        <name>CustomField</name>
     </types>
     <types>
-        <members>Case.Priorityislow</members>
-        <name>WorkflowFieldUpdate</name>
+        <members>Event-Event Layout</members>
+        <members>Task-Task Layout</members>
+        <name>Layout</name>
     </types>
     <types>
-        <members>Case.Typeoncase</members>
-        <name>WorkflowRule</name>
+        <members>Admin</members>
+        <name>Profile</name>
     </types>
-    <version>55.0</version>
+    <version>57.0</version>
 </Package>
