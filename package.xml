@@ -4,5 +4,15 @@
         <members>Account.Test__c</members>
         <name>CustomField</name>
     </types>
+        <members>Activity.Test3__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+        <members>College__c</members>
+        <name>CustomObject</name>
+    </types>
     <version>57.0</version>
 </Package>
