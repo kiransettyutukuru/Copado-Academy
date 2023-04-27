@@ -8,5 +8,8 @@
         <members>Admin</members>
         <name>Profile</name>
     </types>
+        <members>College__c</members>
+        <name>CustomObject</name>
+    </types>
     <version>57.0</version>
 </Package>
