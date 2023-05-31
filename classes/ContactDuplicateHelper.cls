@@ -3,7 +3,7 @@ public class ContactDuplicateHelper {
     public static void checkForDuplicateContacts(List<Contact> contacts) {
         Set<String> contactEmails = new Set<String>();
         List<Contact> duplicateContacts = new List<Contact>();
-
+///comments for testing
         // Collect the unique email addresses from the contacts being inserted or updated
         for (Contact contact : contacts) {
             if (contact.Email != null) {
