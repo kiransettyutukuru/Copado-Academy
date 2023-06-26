@@ -593,6 +593,7 @@
     <webLinks>
         <fullName>Billing</fullName>
         <availability>online</availability>
+        <description>Reproducing the issue for the case:00070692</description>
         <displayType>link</displayType>
         <encodingKey>UTF-8</encodingKey>
         <hasMenubar>true</hasMenubar>
@@ -607,6 +608,6 @@
         <protected>false</protected>
         <showsLocation>true</showsLocation>
         <showsStatus>true</showsStatus>
-        <url>http://www.genwatt.com/genwatt/billing.htm?actname={!Account_Name}</url>
+        <url>http://www.genwatt.com/genwatt/billing.htm?actname={!Account.Name}</url>
     </webLinks>
 </CustomObject>
