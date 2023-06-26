@@ -31,4 +31,9 @@
         <default>false</default>
         <label>SASupgrade</label>
     </standardValue>
+    <standardValue>
+        <fullName>CRM</fullName>
+        <default>false</default>
+        <label>CRM</label>
+    </standardValue>
 </StandardValueSet>

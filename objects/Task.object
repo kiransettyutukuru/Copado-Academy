@@ -370,6 +370,10 @@
         <picklistValues>
             <picklist>Subject</picklist>
             <values>
+                <fullName>CRM</fullName>
+                <default>false</default>
+            </values>
+            <values>
                 <fullName>Call</fullName>
                 <default>false</default>
             </values>
