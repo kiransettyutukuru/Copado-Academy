@@ -471,9 +471,10 @@
     </fields>
     <fields>
         <fullName>Test__c</fullName>
+        <description>Comment1</description>
         <externalId>false</externalId>
         <label>Test</label>
-        <length>30</length>
+        <length>35</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
