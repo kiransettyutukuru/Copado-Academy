@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>ContactDuplicateHelper</members>
-        <members>ContactDuplicateTriggerTest</members>
+        <members>AccountOps</members>
         <name>ApexClass</name>
     </types>
     <types>
-        <members>ContactDuplicateTrigger</members>
-        <name>ApexTrigger</name>
+        <members>Lead.LeadTest1__c</members>
+        <name>CustomField</name>
     </types>
-    <version>57.0</version>
+    <version>58.0</version>
 </Package>
