@@ -4,9 +4,5 @@
         <members>AccountOps</members>
         <name>ApexClass</name>
     </types>
-    <types>
-        <members>Lead.LeadTest1__c</members>
-        <name>CustomField</name>
-    </types>
     <version>58.0</version>
 </Package>
