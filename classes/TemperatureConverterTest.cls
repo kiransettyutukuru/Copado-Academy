@@ -1,6 +1,7 @@
 @isTest
 private class TemperatureConverterTest {
     // adding a commment
+    //PR status on Azure
     @isTest static void testWarmTemp() {
         Decimal celsius = TemperatureConverter.FahrenheitToCelsius(70);
         System.assertEquals(21.11,celsius);
