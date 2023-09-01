@@ -10,9 +10,5 @@
         <members>Lead.LeadTest1__c</members>
         <name>CustomField</name>
     </types>
-    <types>
-        <members>Testprofile1</members>
-        <name>Profile</name>
-    </types>
     <version>58.0</version>
 </Package>
