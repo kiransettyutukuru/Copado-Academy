@@ -1,6 +1,7 @@
 @isTest
 private class TemperatureConverterTest {
     // adding a commment
+    //PR status on Azure
     @isTest static void testWarmTemp() {
         Decimal celsius = TemperatureConverter.FahrenheitToCelsius(70);
         System.assertEquals(21.11,celsius);
@@ -13,8 +14,9 @@ private class TemperatureConverterTest {
         Decimal celsius = TemperatureConverter.FahrenheitToCelsius(212);        
         System.assertEquals(100,celsius,'Boiling point temperature is not expected.');
     } 
-    @isTest static void testNegativeTemp() {
+    @isTest static void testNegativeTemp() //adding a extra change CVCTest
+     {
         Decimal celsius = TemperatureConverter.FahrenheitToCelsius(-10);
         System.assertEquals(-23.33,celsius);
-    }
+    } 
 }
