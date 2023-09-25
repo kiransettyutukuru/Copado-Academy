@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
+        <fullName>Caseclose</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Caseclose</shortDescription>
+        <value>Caseclose</value>
+    </labels>
+    <labels>
         <fullName>Label2</fullName>
         <language>en_US</language>
         <protected>true</protected>
