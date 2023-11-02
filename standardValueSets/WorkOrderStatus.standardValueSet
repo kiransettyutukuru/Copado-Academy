@@ -44,4 +44,10 @@
         <label>Canceled</label>
         <groupingString>Canceled</groupingString>
     </standardValue>
+    <standardValue>
+        <fullName>CopadoTest</fullName>
+        <default>false</default>
+        <label>CopadoTest</label>
+        <groupingString>New</groupingString>
+    </standardValue>
 </StandardValueSet>
