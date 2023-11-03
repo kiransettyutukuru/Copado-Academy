@@ -5,7 +5,6 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>WorkOrder.Record_type1</members>
         <members>WorkOrder.record_Type2</members>
         <name>RecordType</name>
     </types>
