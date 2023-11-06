@@ -9,12 +9,12 @@
     <enableShareBrowserSessionAndroidForAuth>false</enableShareBrowserSessionAndroidForAuth>
     <enableShareBrowserSessionIOSForAuth>false</enableShareBrowserSessionIOSForAuth>
     <logRedirections>false</logRedirections>
-    <myDomainName>copado161-dev-ed</myDomainName>
+    <myDomainName>copado-23c-dev-ed</myDomainName>
     <myDomainSuffix>MySalesforce</myDomainSuffix>
     <redirectForceComSiteUrls>true</redirectForceComSiteUrls>
     <redirectPriorMyDomain>true</redirectPriorMyDomain>
     <use3rdPartyCookieBlockingCompatibleHostnames>true</use3rdPartyCookieBlockingCompatibleHostnames>
-    <useEdge>true</useEdge>
+    <useEdge>false</useEdge>
     <useEnhancedDomainsInSandbox>true</useEnhancedDomainsInSandbox>
     <useStabilizedMyDomainHostnames>true</useStabilizedMyDomainHostnames>
     <useStabilizedSandboxMyDomainHostnames>true</useStabilizedSandboxMyDomainHostnames>
