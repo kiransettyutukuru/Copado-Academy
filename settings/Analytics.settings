@@ -5,33 +5,35 @@
     <autoInstallApps>false</autoInstallApps>
     <canAccessAnalyticsViaAPI>false</canAccessAnalyticsViaAPI>
     <canAnnotateDashboards>false</canAnnotateDashboards>
-    <canEnableBYOMZeroDayScoring>false</canEnableBYOMZeroDayScoring>
     <canEnableSavedView>true</canEnableSavedView>
     <canExploreDataConversationally>false</canExploreDataConversationally>
     <canShareAppsWithCommunities>false</canShareAppsWithCommunities>
     <canViewThumbnailAssets>false</canViewThumbnailAssets>
+    <enableAmazonRedshiftOutputConnector>false</enableAmazonRedshiftOutputConnector>
     <enableAnalyticsSharingEnable>true</enableAnalyticsSharingEnable>
     <enableAutoCompleteCombo>true</enableAutoCompleteCombo>
     <enableAzureDLGen2OutputConnector>false</enableAzureDLGen2OutputConnector>
     <enableDashboardComponentSnapshot>false</enableDashboardComponentSnapshot>
     <enableDashboardFlexiTable>true</enableDashboardFlexiTable>
     <enableEmailReportsToPortalUsers>false</enableEmailReportsToPortalUsers>
-    <enableFirebirdEditor>false</enableFirebirdEditor>
     <enableFloatingReportHeaders>true</enableFloatingReportHeaders>
-    <enableInsights>true</enableInsights>
+    <enableInsights>false</enableInsights>
     <enableLightningReportBuilder>false</enableLightningReportBuilder>
     <enableLotusNotesImages>false</enableLotusNotesImages>
     <enableMassEnableReportBuilder>true</enableMassEnableReportBuilder>
     <enableNewChartsEngine>true</enableNewChartsEngine>
+    <enableNullDimension>false</enableNullDimension>
+    <enableOrgCanSeeLivePreviews>false</enableOrgCanSeeLivePreviews>
+    <enableOrgCanViewTableau>false</enableOrgCanViewTableau>
+    <enableOrgCanViewThumbnailForOA>true</enableOrgCanViewThumbnailForOA>
     <enableOrgHasMobileOfflineEnabled>true</enableOrgHasMobileOfflineEnabled>
     <enableOrgHasWatchlistEnabled>true</enableOrgHasWatchlistEnabled>
     <enableQueryLiveConnectors>true</enableQueryLiveConnectors>
     <enableRemoveFooterForRepDisplay>false</enableRemoveFooterForRepDisplay>
     <enableRemoveFooterFromRepExp>false</enableRemoveFooterFromRepExp>
     <enableReportHideXlsExportPref>false</enableReportHideXlsExportPref>
-    <enableReportInlineEditPref>false</enableReportInlineEditPref>
+    <enableReportInlineEditPref>true</enableReportInlineEditPref>
     <enableReportNotificationsEnable>true</enableReportNotificationsEnable>
-    <enableRequestPrioritySchdl>false</enableRequestPrioritySchdl>
     <enableS1AnalyticsEclairEnable>true</enableS1AnalyticsEclairEnable>
     <enableS3OutputConnector>false</enableS3OutputConnector>
     <enableSFXJoinedReportsEnable>false</enableSFXJoinedReportsEnable>
@@ -40,18 +42,15 @@
     <enableSnowflakeOutputConnector>false</enableSnowflakeOutputConnector>
     <enableTableauHyperOutputConnector>false</enableTableauHyperOutputConnector>
     <enableUseOldChartsLookAndFeel>false</enableUseOldChartsLookAndFeel>
-    <enableWaveAssetsNewDateVersion>false</enableWaveAssetsNewDateVersion>
     <enableWaveIndexMVDim>true</enableWaveIndexMVDim>
     <enableWaveIndexMVDimV2>false</enableWaveIndexMVDimV2>
     <enableWaveRecordNavigation>false</enableWaveRecordNavigation>
     <enableWaveReplication>false</enableWaveReplication>
     <enableWaveSharingInheritance>false</enableWaveSharingInheritance>
-    <enableWaveTrendedDatasetCleanup>false</enableWaveTrendedDatasetCleanup>
+    <enableWaveSqlCFIndexing>false</enableWaveSqlCFIndexing>
+    <isDiscoveryOptimizationEnabled>false</isDiscoveryOptimizationEnabled>
+    <isHighVolumePushbackEnabled>false</isHighVolumePushbackEnabled>
     <maxHoursAppInProgress>48</maxHoursAppInProgress>
-    <recipeDirectDataPref>true</recipeDirectDataPref>
-    <recipeFiscalPref>false</recipeFiscalPref>
-    <recipePreCachingOptOut>false</recipePreCachingOptOut>
-    <recipeStagedDataPref>false</recipeStagedDataPref>
     <replaceBlankMeasuresWithNulls>false</replaceBlankMeasuresWithNulls>
     <turnOnTimeZones>false</turnOnTimeZones>
 </AnalyticsSettings>
