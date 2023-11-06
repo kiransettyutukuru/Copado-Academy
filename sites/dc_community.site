@@ -23,8 +23,8 @@
     <redirectToCustomDomain>false</redirectToCustomDomain>
     <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>vlocitydev1@copado.com</siteAdmin>
-    <siteGuestRecordDefaultOwner>vlocitydev1@copado.com</siteGuestRecordDefaultOwner>
+    <siteAdmin>vlocityuat@copado.com</siteAdmin>
+    <siteGuestRecordDefaultOwner>vlocityuat@copado.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>cme-training-181b09b999b-18b7252564d</subdomain>
+    <subdomain>cme-training-181b09b999b-18b7269fbc6</subdomain>
 </CustomSite>

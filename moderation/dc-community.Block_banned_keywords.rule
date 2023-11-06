@@ -10,6 +10,11 @@
     </entitiesAndFields>
     <entitiesAndFields>
         <entityName>FeedItem</entityName>
+        <fieldName>LinkUrl</fieldName>
+        <keywordList>dc-community.Banned</keywordList>
+    </entitiesAndFields>
+    <entitiesAndFields>
+        <entityName>FeedItem</entityName>
         <fieldName>RawBody</fieldName>
         <keywordList>dc-community.Banned</keywordList>
     </entitiesAndFields>
@@ -21,11 +26,6 @@
     <entitiesAndFields>
         <entityName>FeedPollChoice</entityName>
         <fieldName>ChoiceBody</fieldName>
-        <keywordList>dc-community.Banned</keywordList>
-    </entitiesAndFields>
-    <entitiesAndFields>
-        <entityName>FeedItem</entityName>
-        <fieldName>LinkUrl</fieldName>
         <keywordList>dc-community.Banned</keywordList>
     </entitiesAndFields>
     <masterLabel>Block posts or comments containing banned keywords</masterLabel>

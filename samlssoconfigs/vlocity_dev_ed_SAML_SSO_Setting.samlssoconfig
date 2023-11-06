@@ -6,10 +6,10 @@
     <issuer>https://vlocity-dev-ed.my.salesforce.com</issuer>
     <loginUrl>https://vlocity-dev-ed.my.salesforce.com/idp/endpoint/HttpPost</loginUrl>
     <name>vlocity-dev-ed SAML SSO Setting</name>
-    <oauthTokenEndpoint>https://innovative-value-56646.my.salesforce.com/services/oauth2/token</oauthTokenEndpoint>
+    <oauthTokenEndpoint>https://innovative-core-78786.my.salesforce.com/services/oauth2/token</oauthTokenEndpoint>
     <redirectBinding>false</redirectBinding>
-    <requestSigningCertId>0P1Hn000001LZG8</requestSigningCertId>
-    <salesforceLoginUrl>https://innovative-value-56646.my.salesforce.com</salesforceLoginUrl>
+    <requestSigningCertId>0P1Hn000001VKyY</requestSigningCertId>
+    <salesforceLoginUrl>https://innovative-core-78786.my.salesforce.com</salesforceLoginUrl>
     <samlEntityId>https://saml.salesforce.com/00Df40000001Ru0EAE</samlEntityId>
     <samlVersion>SAML2_0</samlVersion>
     <useConfigRequestMethod>false</useConfigRequestMethod>

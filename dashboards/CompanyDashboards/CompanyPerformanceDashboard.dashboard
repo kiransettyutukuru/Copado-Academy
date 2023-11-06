@@ -249,7 +249,7 @@
             <useReportChart>false</useReportChart>
         </components>
     </rightSection>
-    <runningUser>vlocitydev1@copado.com</runningUser>
+    <runningUser>vlocityuat@copado.com</runningUser>
     <textColor>#000000</textColor>
     <title>Company Performance Dashboard</title>
     <titleColor>#000099</titleColor>
