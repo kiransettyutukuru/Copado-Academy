@@ -5,9 +5,23 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>WorkOrder.Record_type1</members>
         <members>WorkOrder.record_Type2</members>
         <name>RecordType</name>
+    </types>
+    <types>
+        <members>UserTest</members>
+        <members>UserTest/Permission_setAssignment_Report_Dkm</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>UserTest</members>
+        <members>UserTest/Group_Member_Report_ijf</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>Group_Member</members>
+        <members>Permission_setAssignment</members>
+        <name>ReportType</name>
     </types>
     <types>
         <members>WorkOrderStatus</members>
