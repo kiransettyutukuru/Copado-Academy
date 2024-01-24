@@ -4,5 +4,9 @@
         <members>Contact.PC_pick__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Account.CopadoTest</members>
+        <name>RecordType</name>
+    </types>
     <version>59.0</version>
 </Package>
