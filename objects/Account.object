@@ -1619,6 +1619,11 @@ IF(CONTAINS(&quot;IL:IN:IA:MI:MN:MO:NE:ND:OH:SD:WI&quot;, BillingState), &quot;N
     </listViews>
     <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
     <recordTypes>
+        <fullName>CopadoTest</fullName>
+        <active>true</active>
+        <label>CopadoTest</label>
+    </recordTypes>
+    <recordTypes>
         <fullName>vlocity_cmt__Advertiser</fullName>
         <active>true</active>
         <description>Use the Advertiser Account to create an Entity which buys Ad-Deals directly from Publisher.</description>
