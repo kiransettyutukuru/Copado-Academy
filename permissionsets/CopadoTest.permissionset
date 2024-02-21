@@ -20,4 +20,8 @@
         <object>TestObject__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <tabSettings>
+        <tab>standard-Document</tab>
+        <visibility>Available</visibility>
+    </tabSettings>
 </PermissionSet>
