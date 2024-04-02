@@ -582,6 +582,16 @@
         </filters>
         <label>New This Week</label>
     </listViews>
+    <recordTypes>
+        <fullName>Record_Type2</fullName>
+        <active>true</active>
+        <label>Record Type2</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Record_type1</fullName>
+        <active>true</active>
+        <label>Record type1</label>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>FULL_NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
