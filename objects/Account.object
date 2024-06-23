@@ -481,7 +481,7 @@
     </fields>
     <fields>
         <fullName>Test__c</fullName>
-        <description>Removed comment1&amp;2 and adding a new commit3</description>
+        <description>Removed comment1&amp;2&amp;3 and adding a new commit4</description>
         <externalId>false</externalId>
         <label>Test</label>
         <length>35</length>
